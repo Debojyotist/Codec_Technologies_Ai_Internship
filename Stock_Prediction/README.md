@@ -33,5 +33,3 @@ The algorithm aims to find the best-fitting linear relationship between the inpu
 3. Run the Python code for stock prediction using Linear Regression.
 4. Explore the accuracy results displayed after model evaluation.
 
-## Support or Contact
-For any inquiries or support regarding the Stock Prediction using Linear Regression project, please contact janvi.bagrecha@gmail.com
